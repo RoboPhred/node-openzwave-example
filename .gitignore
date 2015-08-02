@@ -1,0 +1,12 @@
+
+# Node dependencies
+node_modules/*
+
+# IDE
+typings
+.settings
+
+# OpenZWave logs and config
+OZW_Log.txt
+zwscene.xml
+zwcfg_*.xml

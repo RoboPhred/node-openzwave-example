@@ -1,0 +1,3 @@
+Is instancing by-class or by-value?
+Do we get multiple class instances, or one class with 
+some single values and the occasional multi instance value?

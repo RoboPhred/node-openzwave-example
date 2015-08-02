@@ -1,0 +1,9 @@
+{
+	"usb-serial": [
+		{
+			"name": "Aeotec Z-Stick Gen5",
+			"usbVendor": "0x0658",
+			"usbProduct": "0x0200"
+		}
+	]
+}
