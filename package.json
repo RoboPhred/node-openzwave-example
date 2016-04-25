@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.34",
-    "openzwave-shared": "file:../node-openzwave-shared",
+    "openzwave-shared": "^1.2.0",
     "serialport": "^1.7.4"
   }
 }
